@@ -1,4 +1,4 @@
-let a=8;
+let a=prompt("enter number");
 a=Number.parseInt(a);
 if(a>0){
     console.log("number is positive");
