@@ -1,3 +1,6 @@
+
+// armstrong number means 153 = 1*1*1 + 5*5*5 + 3*3*3
+
 var n=153;
 var arm=0;
 var c =n;
